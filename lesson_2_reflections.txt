@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a empty repository by creating a .git folder in the folder that you ran "git init" in. You need to do this to tell Git that you want to create a repository for this folder. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area let you determine which file you want to add to commit instead of forcing you to commit all the files in the working directory.
