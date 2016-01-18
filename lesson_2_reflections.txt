@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a empty repository by creating a .git folder in the folder that you ran "git init" in. You need to do this to tell Git that you want to create a repository for this folder. 

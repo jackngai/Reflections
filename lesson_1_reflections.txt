@@ -1,0 +1,29 @@
+I'm familiar with version control from my work with office documents (from a program called DeskSite). The basic idea of tracking changes is useful not just in the coding world. Although it is a bit weird to type this in a text file instead of a box in the Udacity end of section window. Hmm, I might as well put this in my blog. 
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+You see the error right away instead of hunting for the error through hundreds or thousands of lines.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can be quicker in trying out new code instead of leaving a 'old code' trail so I can get back to if the new code didn't work.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+No user error (I forgot to commit). But automatically saving makes it hard to determine what changes were made, especially since you are not providing an explanation of each save. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is for coding, Google Docs is not.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows all commit changes (scroll down using down arrow) and git diff can show the exact changes between two commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+I know if I break it and can't figure out how I broke it, I can use a git diff to compare the changes or just restore to the previous version (if the changes I made were not that important).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+The Asteroid app just to make sure Git is working properly. But after that, I want to use Git for the Pitch Perfect app I just finished. I want to implement landscape mode for the app but needed version control so I can recover if I break something. 
