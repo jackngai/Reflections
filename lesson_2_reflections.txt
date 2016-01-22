@@ -21,3 +21,8 @@ You can see other branches and how they branched off from the master commit.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes from both branches are merged. We then deleted the coins branch so it is no longer listed as a branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Saves time, relatively easy to QC code
+Cons: Doesn't always work, hard to work with if there's a lot of code change
