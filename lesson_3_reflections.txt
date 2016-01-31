@@ -8,4 +8,8 @@ If your remote is public, others might be contributing code that you don't want 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-Forks are use to copy someone else's code so you can make modifications. Clones are use for editing a repository's files locally. Branches are different version of the repository that you are working on. While you can technically fork your own code, it is faster to just create a branch. 
+Forks are use to copy someone else's code so you can make modifications. Clones are use for editing a repository's files locally. Branches are different version of the repository that you are working on. While you can technically fork your own code, it is faster to just create a branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A benefit is if you will be offline for sometime but still want to see all the changes in remote without merging with your local version.
