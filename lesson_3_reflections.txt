@@ -17,3 +17,7 @@ A benefit is if you will be offline for sometime but still want to see all the c
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or other version control tools, I will probably have to email the files back and forth with my collaborator. If it is small changes and we clearly document it in the email, it should be as easy as using Git or Github. But for more complex changes, it will be very difficult to compare the code changes. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When collaborating. This let collaborators view your changes before they are added to master, correcting mistakes and other issues before they are added to the master branch. 
